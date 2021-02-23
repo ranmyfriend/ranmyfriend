@@ -4,7 +4,7 @@ I am a developer who is passionate about stuff like iOS Programming. Few tech th
 - 👨🏽‍💻 Currently working in **100Days** Swift UI Challenge
 - 🤝 Open for collaborations in iOS related stuff
 - 😊 Willing to contribute in opensource projects.
-- 👍 Looking for opportunities to join as an full time candidate in iOS Domain
+- 👍 Looking for opportunities to join as a full time candidate in iOS Domain
 
 To connect with me,
 
