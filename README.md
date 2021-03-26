@@ -1,10 +1,11 @@
 ## Hi 👋 I am Ranjith!
 I am a developer who is passionate about stuff like iOS Programming. Few tech that I enjoy working in SwiftUI, Haskell. I love to capture photos on Mobile Phone.
 
-- 👨🏽‍💻 Currently working in **100Days** Swift UI Challenge
+- 👨🏽‍💻 Currently reading iOS **Unit Testing Example Techniques** book by **Jon Reid**
+- 🏆 💻 Completed **100Days** Swift UI Challenge and received **Merit(83/100)** Certificate
 - 🤝 Open for collaborations in iOS related stuff
-- 😊 Willing to contribute in opensource projects.
-- 👍 Looking for opportunities to join as a full time candidate in iOS Domain
+- 😊 Willing to contribute to **open-source** projects.
+- 👍 Looking for opportunities to join as a full-time candidate in iOS Domain
 
 To connect with me,
 
