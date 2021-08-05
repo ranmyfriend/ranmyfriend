@@ -1,8 +1,9 @@
 ## Hi 👋 I am Ranjith!
 I am a developer who is passionate about stuff like iOS Programming. Few tech that I enjoy working in SwiftUI, Haskell. I love to capture photos on Mobile Phone.
 
-- 👨🏽‍💻 Currently reading iOS **Unit Testing Example Techniques** book by **Jon Reid**
-- 🏆 💻 Completed **100Days** Swift UI Challenge and received **Merit(83/100)** Certificate
+- 👨🏽‍💻 Building **Spotify clone(https://github.com/ranmyfriend/Catchup/tree/main/Spotify)** app by watching iOS Academy Youtube Series
+- 📚 Completed Book Reading: **Unit Testing Example Techniques** by **Jon Reid**
+- 🏆 💻 Completed **100Days(https://github.com/ranmyfriend/100Days-SwiftUI)** Swift UI Challenge by Paul Hudson and received **Merit(83/100)** Certificate
 - 🤝 Open for collaborations in iOS related stuff
 - 😊 Willing to contribute to **open-source** projects.
 - 👍 Looking for opportunities to join as a full-time candidate in iOS Domain
