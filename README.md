@@ -2,6 +2,7 @@
 I am a developer who is passionate about stuff like iOS Programming. Few tech that I enjoy working in SwiftUI, Haskell. I love to capture photos on Mobile Phone.
 
 - 👨🏽‍💻 Daily code catchups and practising SwiftUI(CS193p and Youtube Videos)
+- 👨 Leetcode profile: https://leetcode.com/ranjithkumar2010a/
 - 👨🏽‍💻 Completed **Spotify clone(https://github.com/ranmyfriend/Catchup/tree/main/Spotify)** app by watching iOS Academy Youtube Series
 - 📚 Completed Book Reading: **Unit Testing Example Techniques** by **Jon Reid**
 - 🏆 💻 Completed **100Days(https://github.com/ranmyfriend/100Days-SwiftUI)** Swift UI Challenge by Paul Hudson and received **Merit(83/100)** Certificate
