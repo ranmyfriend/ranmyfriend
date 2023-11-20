@@ -1,5 +1,5 @@
 ## Hi 👋 I am Ranjith!
-I am a developer who is passionate about stuff like iOS Programming. Few tech that I enjoy working in SwiftUI, Haskell. I love to capture photos on Mobile Phone.
+I am a developer who is passionate about stuff like iOS Programming. Few tech that I enjoy working in Swift, iOS, Xamarin. I love to capture photos on Mobile Phone.
 
 - 👨🏽‍💻 Daily code catchups and practising SwiftUI(CS193p and Youtube Videos)
 - 👨 Leetcode profile: https://leetcode.com/ranjithkumar2010a/
