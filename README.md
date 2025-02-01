@@ -16,6 +16,7 @@ To connect with me,
 
 Tech Stack,
 
-<img src="https://img.shields.io/badge/Swift%20-orange.svg?&style=for-the-badge&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/Objective-C%20-blue.svg?&style=for-the-badge&logo=Objective%20C&logoColor=white"/> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/-.NET%208.0-blueviolet?&style=for-the-badge&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white"/> <img src="https://img.shields.io/badge/Swift%20-orange.svg?&style=for-the-badge&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/Objective-C%20-blue.svg?&style=for-the-badge&logo=Objective%20C&logoColor=white"/> <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 
 ⭐ *Star and Fork this repo to try new feature!* 
